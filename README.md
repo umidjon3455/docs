@@ -10,12 +10,6 @@ A documentation website for Blockscout, providing guides, tutorials, API referen
 * Developer tutorials
 * Searchable documentation structure
 * Responsive and modern UI
-* Comprehensive Blockscout documentation
-* Getting started guides
-* API reference and examples
-* Developer tutorials
-* Searchable documentation structure
-* Responsive and modern UI
   
 ## Tech Stack
 
