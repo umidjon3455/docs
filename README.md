@@ -34,7 +34,7 @@ Contributions are welcome. Feel free to open issues and submit pull requests.
 
 ## License
 
-This project is licensed under the MIT License.This project is licensed under the MIT License.This project is licensed under the MIT License.This project is licensed under the MIT License.This project is licensed under the MIT License.This project is licensed under the MIT License.This project is licensed under the MIT License.This project is licensed under the MIT License.This project is licensed under the MIT License.This project is licensed under the MIT License.This project is licensed under the MIT License.This project is licensed under the MIT License.This project is licensed under the MIT License.This project is licensed under the MIT License.This project is licensed under the MIT License.This project is licensed under the MIT License.
+This project is licensed under the MIT License.
 
   
    
