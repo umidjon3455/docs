@@ -20,7 +20,7 @@ A documentation website for Blockscout, providing guides, tutorials, API referen
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/blockscout-docs.git
+git clone https://github.com/umidjon3455/docs.git
 cd blockscout-docs
 ```
 
