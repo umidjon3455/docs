@@ -5,7 +5,7 @@ A documentation website for Blockscout, providing guides, tutorials, API referen
 ## Features
 
 * Comprehensive Blockscout documentation
-* Getting started guides
+* Getting started guides 
 * API reference and examples
 * Developer tutorials
 * Searchable documentation structure
