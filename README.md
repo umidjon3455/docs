@@ -9,7 +9,7 @@ A documentation website for Blockscout, providing guides, tutorials, API referen
 * API reference and examples
 * Developer tutorials 
 * Searchable documentation structure
-* Responsive and modern UI
+* Responsive and modern UI 
   
 ## Tech Stack
 
