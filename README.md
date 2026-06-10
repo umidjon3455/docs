@@ -2,7 +2,7 @@
 
 A documentation website for Blockscout, providing guides, tutorials, API references, and developer resources for exploring and interacting with blockchain data.
 
-## Features  
+## Features   
  
 * Comprehensive Blockscout documentation
 * Getting started guides 
