@@ -29,8 +29,9 @@
         "options": [
             "copy",
             "view",
-            "chatgpt",
-            "claude"
+            "gemini",
+            "claude",
+            "chatgpt"
         ]
     },
     "navigation": {
